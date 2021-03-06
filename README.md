@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img align="left" alt="Abdul Rasheed A's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrasheed-a&show_icons=true&theme=chartreuse-dark&hide_border=true" >
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrasheed-a&show_icons=true&layout=compact&theme=chartreuse-dark&hide_border=true">
 
 <!--
 **abdulrasheed-a/abdulrasheed-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
